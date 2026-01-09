@@ -47,7 +47,7 @@ I’m comfortable owning systems end-to-end, making trade-offs, and iterating in
 
 ---
 
-## Tools I Reach For
+## Skills
 
 **Languages**  
 Solidity, Go, TypeScript, Rust, Python, C++

@@ -66,12 +66,13 @@ Foundry, Slither, gas optimization, adversarial thinking
 ## Other Work
 
 Some older experiments, academic explorations, and early prototypes live on my secondary account:  
-👉 https://github.com/kaushal205
+👉 https://github.com/Kaushal-205
 
 ---
 
 ## Let’s Connect
 
+- X: https://x.com/kaushaldesai_kd
 - 💬 LinkedIn: https://linkedin.com/in/kaushal-desai-bb79a4203  
 - 📧 Email: kaushaldesai205@gmail.com  
 
